@@ -17,20 +17,20 @@ function App() {
     },
     {
       type:"FSD",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2022/12/Fetch-Data-using-API-in-React.Js-1200x675.png",
-      content:"Use ReactJS to Fetch and Display Data from API – 5 Simple Steps",
+      img:"https://www.guvi.in/blog/wp-content/uploads/2024/02/project_ideas_for_robotic_applications-1.webp",
+      content:"10 Best HTML and CSS Project Ideas for Beginners",
       date:"20 August 2024"
     },
     {
       type:"FSD",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/person-front-computer-working-html-1200x801.jpg",
-      content:"Best Full-Stack Development Project Ideas in 2024",
+      img:"https://www.guvi.in/blog/wp-content/uploads/2023/07/how-long-it-would-it-take-to-learn-full-stack-development_-1200x628.webp",
+      content:"How Long Would It Take to Be a Full Stack Developer?",
       date:"20 August 2024"
     },
     {
       type:"FSD",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/01/How-to-set-up-1200x675.png",
-      content:"How to Setup React Router v6?",
+      img:"https://www.guvi.in/blog/wp-content/uploads/2024/04/10-Best-React-Project-Ideas-for-Developers-with-Source-Code-1200x466.png",
+      content:"10 Best React Project Ideas for Developers [with Source Code]",
       date:"20 August 2024"
     },
     {
@@ -53,8 +53,8 @@ function App() {
     },
     {
       type:"CyberSecurity",
-      img:"https://www.guvi.in/blog/wp-content/uploads/2023/12/Feature-image-Install-Miro-on-Windows-A-2-Step-Comprehensive-Guide.webp",
-      content:"What is Cybersecurity? Importance and its uses & the growing challenges in 2023!",
+      img:"https://www.guvi.in/blog/wp-content/uploads/2021/03/Blog-9-945x495.png",
+      content:"The Cybersecurity Surge: 5 Must-Have Cybersecurity Certifications!",
       date:"20 August 2024"
     },
     {
